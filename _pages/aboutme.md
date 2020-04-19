@@ -1,14 +1,37 @@
 ---
 layout: page
 title: About Me
-image: 08.jpg
+subtitle: "Miners of Tomorrow"
+image: Me3.jpg
 permalink: /aboutme/
 ---
 
+My name is Junhyeok Park. 
 
-#### Austin scenester...
-<small>2016 - 2020</small>
-This is
+I love playing musical instriument, especially guitar :) 
+I am a member of "De Colores" band group. We perform every month at Cartel Coffee or Sky Bar.
+
+
+What I love is..
+
+- playing guitar and having a small concert
+- digging for new things! Right now, I indulge in control with small sensors and gadgets like Arduino!
+- rock (both music and geology)
+- traveling around great great mother nature
+- my beautiful girlfriend, she is a biomedical researcher! I am proud of her :)
+
+
+Whoa, what else do you need?
+
+### Education
+
+***
+
+#### University of Arizona
+<small>2016 - 2020</small> <b>Ph.D.</b> 
+
+Major: Mining and Geological Engineering
+Minor: Electrical Engineering
 
 #### Vinyl hexagon before...
 <small>2001 - 2008</small>
