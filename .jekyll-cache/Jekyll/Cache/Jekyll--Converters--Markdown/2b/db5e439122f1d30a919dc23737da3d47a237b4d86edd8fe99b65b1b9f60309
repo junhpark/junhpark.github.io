@@ -1,12 +1,4 @@
----
-layout: page
-title: Hey Park!
-subtitle: Ph.D student, stuyding mining in U of Arizona
----
-
-
-
-<div class="ryan">
+I"m<div class="ryan">
   <div class="ear left"></div>
   <div class="ear right"></div>
   
@@ -21,4 +13,4 @@ subtitle: Ph.D student, stuyding mining in U of Arizona
   </div>
 </div>
 
-
+:ET
