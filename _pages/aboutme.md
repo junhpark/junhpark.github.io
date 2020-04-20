@@ -6,7 +6,7 @@ image: Me3.jpg
 permalink: /aboutme/
 ---
 
-My name is Junhyeok Park. 
+### My name is Junhyeok Park. 
 
 I love playing musical instriument, especially guitar :) 
 I am a member of "De Colores" band group. We perform every month at Cartel Coffee or Sky Bar.
