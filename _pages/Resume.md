@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-image: 08.jpg
-permalink: /about/
+title: CV/RESUME
+image: 02.jpg
+permalink: /cvnresume/
 ---
 
 My CV is here.
