@@ -1,14 +1,8 @@
----
-layout: page
-title: About
-image: 08.jpg
-permalink: /about/
----
-
-My CV is here.
+I"q<p>My CV is here.</p>
 
 <object data="https://junhpark.github.io/img/CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://junhpark.github.io/img/CV.pdf">
+    <embed src="https://junhpark.github.io/img/CV.pdf" />
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://junhpark.github.io/img/CV.pdf">Download PDF</a>.</p>
-    </embed>
+    &lt;/embed&gt;
 </object>
+:ET
