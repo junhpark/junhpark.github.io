@@ -21,7 +21,7 @@ What I love is..
 - digging for new things! Right now, I indulge in control with small sensors and gadgets like Arduino!
 - rock (both music and geology)
 - traveling around great great mother nature
-- my beautiful girlfriend, she is a biomedical researcher! I am proud of her :)
+
 
 
 Whoa, what else do you need?
